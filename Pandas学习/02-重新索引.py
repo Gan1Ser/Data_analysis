@@ -1,7 +1,7 @@
 import pandas as pd
 obj = pd.Series([4.5, 7.2, -5.3, 3.6], index=["d", "b", "a", "c"])
 # print("-----obj----")
-# print(obj)1
+# print(obj)
 
 # reindex
 obj2 = obj.reindex(["a", "b", "c", "d", "e"])

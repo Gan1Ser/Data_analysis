@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
-    <orderEntry type="inheritedJdk" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Numpy学习" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pandas学习" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/实战" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/数据加载、存储与文件格式" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/数据加载、存储与文件格式/examples" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Remote Python 3.7.13 (/home/cc/.conda/envs/Python37/bin/python)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
