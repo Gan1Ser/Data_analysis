@@ -7,8 +7,9 @@
       <sourceFolder url="file://$MODULE_DIR$/实战" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/数据加载、存储与文件格式" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/数据加载、存储与文件格式/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/数据加载、存储与文件格式/datasets" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="Remote Python 3.7.13 (/home/cc/.conda/envs/Python37/bin/python)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.9" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
